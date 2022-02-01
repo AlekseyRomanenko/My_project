@@ -1,0 +1,32 @@
+[
+	{
+		"name": "Christmas wreath",
+		"price": 399,
+		"img": "https://cdn.hum3d.com/wp-content/uploads/Tools/801_Christmas_Wreath/Christmas_Wreath_1000_0001.jpg"
+	},
+	{
+		"name": "Christmas candle",
+		"price": 199,
+		"img": "https://i.etsystatic.com/21554180/r/il/46b562/2144718708/il_fullxfull.2144718708_38pe.jpg"
+	},
+	{
+		"name": "Deer cookies",
+		"price": 299,
+		"img": "https://parade.com/wp-content/uploads/2019/10/reindeer-cookies-4.jpg"
+	},
+	{
+		"name": "Balls",
+		"price": 139,
+		"img": "https://kdvr.com/wp-content/uploads/sites/11/2021/11/1040x585-2021-1027-best-christmas-ball-ornaments-1d7c62.jpg?strip=1"
+	},
+	{
+		"name": "Candy",
+		"price": 25,
+		"img": "https://www.casacenina.com/catalog/images/img_247/packshot/137138/1_christmas-candy-wd2441.jpg"
+	},
+	{
+		"name": "LED Lights",
+		"price": 79,
+		"img": "https://electricityplans.com/wp-content/uploads/2017/10/LED-Christmas-Holiday-light-savings.jpg"
+	}
+]

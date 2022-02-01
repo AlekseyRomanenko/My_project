@@ -1,0 +1,45 @@
+*{
+    box-sizing: border-box;
+}
+
+a{
+    text-decoration: none;
+    color: inherit;
+}
+
+.sudoku{
+    margin: 50px auto;
+    display: flex;
+    flex-wrap: wrap;
+    width: 360px;
+    height: 360px;
+}
+
+.rect{
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    line-height: 40px;
+    font-size: 22px;
+    color: green;
+    border: 1px solid green;
+    cursor: pointer;
+}
+
+.nums{
+    display: flex;
+}
+.num{
+    font-size: 50px;
+    color: green;
+    margin-right: 30px;
+    cursor: pointer;
+}
+
+.selected{
+    border: 1px solid #e2e2e2;
+}
+
+.false{
+    background: rgba(255, 0, 0, 0.3);
+}
